@@ -1,1 +1,2 @@
 Hello Word !
+It's a new day on GitHub !
